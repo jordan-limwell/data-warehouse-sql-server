@@ -66,6 +66,7 @@ data-warehouse-project/
 │   ├── data_layer.png
 │   ├── data_models_overview.png        
 │   ├── data_model.png                  # Draw.io file for data models (star schema)
+│   ├── eda.md                          # Detailed Report For the Exploratory Data Analysis
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
