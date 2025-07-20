@@ -38,6 +38,10 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
+### Exploratory Data Analysis (EDA)
+[📊 View Exploratory Data Analysis Report](docs/eda.md)
+
+---
 ### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
