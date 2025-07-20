@@ -42,6 +42,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 [📊 View Exploratory Data Analysis Report](docs/eda.md)
 
 ---
+
 ### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
@@ -71,6 +72,7 @@ data-warehouse-project/
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── EDA/                            # Scripts for the EDA
+│   ├── adv_analysis/                   # Scripts for advance data analysis
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
